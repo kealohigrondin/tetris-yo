@@ -1,0 +1,4 @@
+﻿  TetrisApp.cpp
+c:\users\kealohi\documents\visual studio 2015\projects\pa9\pa9\tetrisapp.cpp(10): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  pa9.vcxproj -> C:\Users\Kealohi\documents\visual studio 2015\Projects\pa9\Debug\pa9.exe
+  pa9.vcxproj -> C:\Users\Kealohi\documents\visual studio 2015\Projects\pa9\Debug\pa9.pdb (Full PDB)
